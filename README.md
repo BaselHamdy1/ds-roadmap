@@ -19,8 +19,8 @@ Built and maintained by [Basel Hamdy](https://github.com/BaselHamdy1).
 | [Beginner](ROADMAP.md#beginner) | Python, OOP, EDA, NumPy, Pandas, Git | 7 | Available |
 | [Intermediate A](ROADMAP.md#intermediate-a) | Visualization, Power BI, SQL, Web Scraping, APIs, Time Series | 7 | Available |
 | [Intermediate B](ROADMAP.md#intermediate-b) | Feature Engineering, Math for ML, Machine Learning | 14 | Available |
-| [Advanced](ROADMAP.md#advanced) | Deep Learning, PyTorch, CNNs, Transfer Learning, Docker and Cloud Deployment | See roadmap | Available |
-| [Specialization](ROADMAP.md#specialization--llms) | Large Language Models (LLMs) | See roadmap | Available |
+| [Advanced](ROADMAP.md#advanced) | Deep Learning, PyTorch, CNNs, Transfer Learning, Docker and Cloud Deployment | 13 | Available |
+| [Specialization](ROADMAP.md#specialization--llms) | Large Language Models (LLMs) | 18 | Available |
 
 ## How to Use
 
